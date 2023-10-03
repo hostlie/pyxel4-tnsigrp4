@@ -3,10 +3,7 @@ from managePlatforms import ManagePlatforms
 from manageRessorts import ManageRessorts
 import random
 import numpy as np
-import pyxel
 from player import Player
-print("hey")
-
 
 screenSize = (456, 576)
 
