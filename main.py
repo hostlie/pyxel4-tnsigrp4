@@ -5,6 +5,8 @@ import random
 import numpy as np
 from player import Player
 
+print("test n°va savoir combien")
+
 screenSize = (456, 576)
 
 pyxel.init(screenSize[0], screenSize[1], title="Doodle Jump")
